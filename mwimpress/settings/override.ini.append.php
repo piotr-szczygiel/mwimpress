@@ -4,5 +4,4 @@ Source=node/view/full.tpl
 MatchFile=full/presentation.tpl
 Subdir=templates
 Match[class_identifier]=impress_presentation
-
 */ ?>

@@ -2,6 +2,6 @@
 
 [DesignSettings]
 AdditionalSiteDesignList[]=mwimpress
-AdditionalSiteDesignList[]=admin2
+AdditionalSiteDesignList[]=admin2 
 
 */ ?>
