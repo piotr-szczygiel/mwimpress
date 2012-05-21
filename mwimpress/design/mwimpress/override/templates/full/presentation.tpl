@@ -11,4 +11,3 @@
 {foreach $slides as $slide}
     {include uri='design:slide/slide.tpl' slide=$slide}
 {/foreach}
-
