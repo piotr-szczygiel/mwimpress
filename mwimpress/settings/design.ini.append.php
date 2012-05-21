@@ -3,4 +3,10 @@
 [ExtensionSettings]
 DesignExtensions[]=mwimpress
 
+[JavaScriptSettings]
+JavaScriptList[]=impress.js
+  
+[StylesheetSettings]
+CSSFileList[]=impress.css
+
 */ ?>
