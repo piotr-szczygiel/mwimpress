@@ -4,7 +4,9 @@
 DesignExtensions[]=mwimpress
 
 [JavaScriptSettings]
-JavaScriptList[]=impress.js
+JavaScriptList[]=jquery-1.5.1.min.js
+#JavaScriptList[]=impress.js
+
   
 [StylesheetSettings]
 CSSFileList[]=impress.css

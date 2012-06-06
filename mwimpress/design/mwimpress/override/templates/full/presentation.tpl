@@ -18,4 +18,10 @@
 {/if}
 
 {ezscript_require( array("impress.js") )}
-<script>impress().init();</script> 
+<script type="text/javascript" src="/extension/mwimpress/design/mwimpress/javascript/impress.js" charset="utf-8"></script>
+<script>
+    $(document).ready(function(){
+        impress().init();
+    });
+    
+</script> 

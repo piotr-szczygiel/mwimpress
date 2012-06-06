@@ -583,3 +583,9 @@
     Thanks for reading. I hope you enjoyed it at least as much as I enjoyed writing it
     for you.
 */
+
+div#page {
+    width: 900px;
+    overflow: hidden;
+    margin: 0 auto;
+}
