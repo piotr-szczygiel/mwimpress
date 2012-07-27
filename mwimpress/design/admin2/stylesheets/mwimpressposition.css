@@ -1,0 +1,18 @@
+#mwImpressPosition_stage{
+    width: 500px;
+    height: 200px;
+    background-color: #DDD;
+    position: relative;
+    margin-top: 30px;
+}
+
+.mwImpressPosition_slide{
+    width: 30px;
+    height: 30px;
+    background-color: #a2d981;
+    position: absolute;
+}
+
+.yui3-js-enabled .controlbar-fixed{
+    z-index: 1;
+}
